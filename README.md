@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ashish102312/leetcode/tree/master/0113-path-sum-ii) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/ashish102312/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
