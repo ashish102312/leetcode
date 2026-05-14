@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/ashish102312/leetcode/tree/master/0176-second-highest-salary) |
+## Array
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/ashish102312/leetcode/tree/master/0119-pascals-triangle-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/ashish102312/leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
