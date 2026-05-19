@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ashish102312/leetcode/tree/master/0113-path-sum-ii) |
+| [0140-word-break-ii](https://github.com/ashish102312/leetcode/tree/master/0140-word-break-ii) |
 ## Database
 |  |
 | ------- |
@@ -43,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ashish102312/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ashish102312/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ashish102312/leetcode/tree/master/0137-single-number-ii) |
+| [0140-word-break-ii](https://github.com/ashish102312/leetcode/tree/master/0140-word-break-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/ashish102312/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashish102312/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ashish102312/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0140-word-break-ii](https://github.com/ashish102312/leetcode/tree/master/0140-word-break-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ashish102312/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/ashish102312/leetcode/tree/master/0140-word-break-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -81,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashish102312/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/ashish102312/leetcode/tree/master/0140-word-break-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/ashish102312/leetcode/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/ashish102312/leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
