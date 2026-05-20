@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ashish102312/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ashish102312/leetcode/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/ashish102312/leetcode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/ashish102312/leetcode/tree/master/0149-max-points-on-a-line) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ashish102312/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/ashish102312/leetcode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/ashish102312/leetcode/tree/master/0149-max-points-on-a-line) |
 ## Union-Find
 |  |
 | ------- |
@@ -97,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/ashish102312/leetcode/tree/master/0140-word-break-ii) |
+## Math
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ashish102312/leetcode/tree/master/0149-max-points-on-a-line) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ashish102312/leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
