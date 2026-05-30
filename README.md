@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ashish102312/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ashish102312/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ashish102312/leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/ashish102312/leetcode/tree/master/0204-count-primes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/ashish102312/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashish102312/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ashish102312/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ashish102312/leetcode/tree/master/0204-count-primes) |
 ## Geometry
 |  |
 | ------- |
@@ -156,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ashish102312/leetcode/tree/master/0200-number-of-islands) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashish102312/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashish102312/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
