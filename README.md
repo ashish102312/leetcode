@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ashish102312/leetcode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/ashish102312/leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/ashish102312/leetcode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ashish102312/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ashish102312/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/ashish102312/leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/ashish102312/leetcode/tree/master/0149-max-points-on-a-line) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ashish102312/leetcode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/ashish102312/leetcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/ashish102312/leetcode/tree/master/0179-largest-number) |
 ## Trie
