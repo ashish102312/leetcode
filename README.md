@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashish102312/leetcode/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashish102312/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0234-palindrome-linked-list](https://github.com/ashish102312/leetcode/tree/master/0234-palindrome-linked-list) |
 ## String
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashish102312/leetcode/tree/master/0002-add-two-numbers) |
 | [0149-max-points-on-a-line](https://github.com/ashish102312/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashish102312/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ashish102312/leetcode/tree/master/0189-rotate-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashish102312/leetcode/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/ashish102312/leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/ashish102312/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
