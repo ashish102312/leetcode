@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ashish102312/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/ashish102312/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ashish102312/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ashish102312/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ashish102312/leetcode/tree/master/0217-contains-duplicate) |
 ## Union-Find
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/ashish102312/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashish102312/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ashish102312/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ashish102312/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ashish102312/leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/ashish102312/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ashish102312/leetcode/tree/master/0227-basic-calculator-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ashish102312/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashish102312/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ashish102312/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ashish102312/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ashish102312/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
