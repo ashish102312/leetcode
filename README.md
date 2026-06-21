@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ashish102312/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ashish102312/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ashish102312/leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/ashish102312/leetcode/tree/master/0274-h-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ashish102312/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ashish102312/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashish102312/leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/ashish102312/leetcode/tree/master/0274-h-index) |
 ## Counting
 |  |
 | ------- |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ashish102312/leetcode/tree/master/0218-the-skyline-problem) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ashish102312/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
