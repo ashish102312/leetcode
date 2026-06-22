@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ashish102312/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ashish102312/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ashish102312/leetcode/tree/master/0274-h-index) |
+| [0705-design-hashset](https://github.com/ashish102312/leetcode/tree/master/0705-design-hashset) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ashish102312/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ashish102312/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashish102312/leetcode/tree/master/0268-missing-number) |
+| [0705-design-hashset](https://github.com/ashish102312/leetcode/tree/master/0705-design-hashset) |
 ## Union-Find
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ashish102312/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ashish102312/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ashish102312/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/ashish102312/leetcode/tree/master/0705-design-hashset) |
 ## String
 |  |
 | ------- |
@@ -287,4 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ashish102312/leetcode/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/ashish102312/leetcode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/ashish102312/leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
