@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ashish102312/leetcode/tree/master/0268-missing-number) |
 | [0705-design-hashset](https://github.com/ashish102312/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ashish102312/leetcode/tree/master/0706-design-hashmap) |
+| [1189-maximum-number-of-balloons](https://github.com/ashish102312/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Union-Find
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ashish102312/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ashish102312/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ashish102312/leetcode/tree/master/0242-valid-anagram) |
+| [1189-maximum-number-of-balloons](https://github.com/ashish102312/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Trie
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ashish102312/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashish102312/leetcode/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/ashish102312/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Matrix
 |  |
 | ------- |
