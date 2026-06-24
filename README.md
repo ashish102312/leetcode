@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ashish102312/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ashish102312/leetcode/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/ashish102312/leetcode/tree/master/0233-number-of-digit-one) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/ashish102312/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ashish102312/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/ashish102312/leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/ashish102312/leetcode/tree/master/0268-missing-number) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/ashish102312/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Geometry
 |  |
 | ------- |
