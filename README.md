@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashish102312/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashish102312/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/ashish102312/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ashish102312/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ashish102312/leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashish102312/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ashish102312/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ashish102312/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ashish102312/leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashish102312/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashish102312/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashish102312/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/ashish102312/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ashish102312/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ashish102312/leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashish102312/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
