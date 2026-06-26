@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/ashish102312/leetcode/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/ashish102312/leetcode/tree/master/1472-design-browser-history) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashish102312/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ashish102312/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/ashish102312/leetcode/tree/master/0706-design-hashmap) |
 | [1189-maximum-number-of-balloons](https://github.com/ashish102312/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashish102312/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ashish102312/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashish102312/leetcode/tree/master/0169-majority-element) |
 | [0218-the-skyline-problem](https://github.com/ashish102312/leetcode/tree/master/0218-the-skyline-problem) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashish102312/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ashish102312/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ashish102312/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashish102312/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ashish102312/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ashish102312/leetcode/tree/master/0218-the-skyline-problem) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashish102312/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ashish102312/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sweep Line
 |  |
 | ------- |
@@ -356,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashish102312/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ashish102312/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
