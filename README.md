@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/ashish102312/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ashish102312/leetcode/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/ashish102312/leetcode/tree/master/1472-design-browser-history) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashish102312/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ashish102312/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashish102312/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ashish102312/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashish102312/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ashish102312/leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/ashish102312/leetcode/tree/master/0179-largest-number) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashish102312/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ashish102312/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ashish102312/leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/ashish102312/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashish102312/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
 |  |
 | ------- |
