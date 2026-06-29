@@ -15,15 +15,14 @@
  */
 class Solution {
     public int countNodes(TreeNode root) {
-        if(root == null )return 0;
+        if(root == null)return 0;
         int lHeight = lHeight(root);
         int rHeight = rHeight(root);
         if(lHeight == rHeight){
-            return (1 << lHeight)-1;
+            return (1<< lHeight)-1;
         }else{
             return 1 + countNodes(root.left) + countNodes(root.right);
         }
-
     }
     private int lHeight(TreeNode node){
         int height = 0;
@@ -34,7 +33,7 @@ class Solution {
         return height;
     }
     private int rHeight(TreeNode node){
-        int height  =0;
+        int height = 0;
         while(node != null){
             height++;
             node = node.right;
