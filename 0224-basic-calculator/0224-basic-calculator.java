@@ -1,18 +1,17 @@
 class Solution {
     public int calculate(String s) {
-     Stack<Integer> stack = new Stack<>();
+       Stack<Integer> stack = new Stack<>();
+       int number = 0;
+       int result = 0;
+       int sign = 1;
 
-     int number = 0;
-     int result = 0;
-     int sign = 1;
-
-     for(char ch : s.toCharArray()){
+       for(char ch : s.toCharArray()){
         if(Character.isDigit(ch)){
-            number = number * 10 +(ch -'0');
+            number = number * 10 +(ch - '0');
         }else if(ch == '+'){
-            result += sign * number;
+            result += sign *number;
             sign = +1;
-            number =0;
+            number = 0;
         }else if(ch == '-'){
             result += sign * number;
             sign = -1;
@@ -24,14 +23,14 @@ class Solution {
             result = 0;
             sign = 1;
         }else if(ch == ')'){
-            result += sign * number;
-            number =0;
+            result += number *sign;
+            number = 0;
 
             result *= stack.pop();
             result += stack.pop();
         }
-     }   
-     result += sign * number;
-     return result;
+       } 
+       result += number *sign;
+       return result ;
     }
 }
