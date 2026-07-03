@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashish102312/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ashish102312/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashish102312/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ashish102312/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashish102312/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ashish102312/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ashish102312/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ashish102312/leetcode/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/ashish102312/leetcode/tree/master/0233-number-of-digit-one) |
+| [3620-network-recovery-pathways](https://github.com/ashish102312/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ashish102312/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashish102312/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/ashish102312/leetcode/tree/master/0268-missing-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashish102312/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ashish102312/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Linked List
 |  |
 | ------- |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/ashish102312/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashish102312/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashish102312/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ashish102312/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Ordered Set
 |  |
 | ------- |
@@ -435,8 +439,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashish102312/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ashish102312/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashish102312/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ashish102312/leetcode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/ashish102312/leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
