@@ -1,9 +1,8 @@
 class Solution {
     public int minScore(int n, int[][] roads) {
         List<int[]> []gr = new ArrayList[n+1];
-
-        for(int i = 0; i<=n; i++){
-            gr[i] = new ArrayList<>(); 
+        for(int i = 0 ; i<= n; i++){
+            gr[i] = new ArrayList<>();
         }
         for(int[] road : roads){
             gr[road[0]].add(new int[]{road[1],road[2]});
@@ -16,8 +15,8 @@ class Solution {
         int ans = Integer.MAX_VALUE;
         while(!qu.isEmpty()){
             int node = qu.poll();
-            for(int[] edge: gr[node]){
-                ans = Math.min(ans , edge[1]);
+            for(int[] edge : gr[node]){
+                ans = Math.min(ans,edge[1]);
                 if(!visit[edge[0]]){
                     visit[edge[0]] = true;
                     qu.offer(edge[0]);
@@ -25,5 +24,6 @@ class Solution {
             }
         }
         return ans;
+
     }
 }
