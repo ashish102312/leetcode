@@ -5,9 +5,7 @@ class Solution {
             int sum = 0;
             for(int r = l; r<nums.length; r++){
                 sum += nums[r];
-                if(sum == k){
-                    count++;
-                }
+                if(sum == k)count++;
             }
         }
         return count;
