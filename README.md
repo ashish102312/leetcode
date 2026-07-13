@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/ashish102312/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ashish102312/leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/ashish102312/leetcode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/ashish102312/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/ashish102312/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashish102312/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1314-matrix-block-sum](https://github.com/ashish102312/leetcode/tree/master/1314-matrix-block-sum) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ashish102312/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashish102312/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/ashish102312/leetcode/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/ashish102312/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashish102312/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashish102312/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashish102312/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ashish102312/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/ashish102312/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/ashish102312/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/ashish102312/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashish102312/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ashish102312/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ashish102312/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ashish102312/leetcode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/ashish102312/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/ashish102312/leetcode/tree/master/1314-matrix-block-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashish102312/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ashish102312/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
