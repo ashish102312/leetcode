@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashish102312/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ashish102312/leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/ashish102312/leetcode/tree/master/0179-largest-number) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashish102312/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashish102312/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashish102312/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ashish102312/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ashish102312/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ashish102312/leetcode/tree/master/0242-valid-anagram) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashish102312/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ashish102312/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashish102312/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashish102312/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ashish102312/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ashish102312/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/ashish102312/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashish102312/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1472-design-browser-history](https://github.com/ashish102312/leetcode/tree/master/1472-design-browser-history) |
 ## Two Pointers
 |  |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashish102312/leetcode/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashish102312/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Combinatorics
 |  |
 | ------- |
