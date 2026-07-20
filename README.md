@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashish102312/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/ashish102312/leetcode/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashish102312/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashish102312/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashish102312/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashish102312/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ashish102312/leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/ashish102312/leetcode/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/ashish102312/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashish102312/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ashish102312/leetcode/tree/master/0189-rotate-array) |
