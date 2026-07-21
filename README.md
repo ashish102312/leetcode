@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ashish102312/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ashish102312/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashish102312/leetcode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ashish102312/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ashish102312/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ashish102312/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ashish102312/leetcode/tree/master/0075-sort-colors) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashish102312/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ashish102312/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ashish102312/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ashish102312/leetcode/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashish102312/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
