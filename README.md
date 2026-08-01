@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/ashish102312/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0407-trapping-rain-water-ii](https://github.com/ashish102312/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/ashish102312/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/ashish102312/leetcode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/ashish102312/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ashish102312/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashish102312/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ashish102312/leetcode/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/ashish102312/leetcode/tree/master/0233-number-of-digit-one) |
 | [0354-russian-doll-envelopes](https://github.com/ashish102312/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0486-predict-the-winner](https://github.com/ashish102312/leetcode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashish102312/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashish102312/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashish102312/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ashish102312/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/ashish102312/leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/ashish102312/leetcode/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/ashish102312/leetcode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/ashish102312/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashish102312/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashish102312/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ashish102312/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/ashish102312/leetcode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/ashish102312/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/ashish102312/leetcode/tree/master/0486-predict-the-winner) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -633,4 +637,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ashish102312/leetcode/tree/master/1260-shift-2d-grid) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ashish102312/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
