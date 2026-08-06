@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashish102312/leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/ashish102312/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ashish102312/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ashish102312/leetcode/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/ashish102312/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ashish102312/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ashish102312/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ashish102312/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ashish102312/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/ashish102312/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ashish102312/leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ashish102312/leetcode/tree/master/0149-max-points-on-a-line) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ashish102312/leetcode/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashish102312/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ashish102312/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Simulation
