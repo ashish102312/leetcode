@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ashish102312/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashish102312/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/ashish102312/leetcode/tree/master/1472-design-browser-history) |
+| [1480-running-sum-of-1d-array](https://github.com/ashish102312/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashish102312/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ashish102312/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashish102312/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ashish102312/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/ashish102312/leetcode/tree/master/1140-stone-game-ii) |
 | [1314-matrix-block-sum](https://github.com/ashish102312/leetcode/tree/master/1314-matrix-block-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/ashish102312/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashish102312/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashish102312/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ashish102312/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
