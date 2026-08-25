@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/ashish102312/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ashish102312/leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/ashish102312/leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/ashish102312/leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ashish102312/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ashish102312/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ashish102312/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ashish102312/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ashish102312/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashish102312/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ashish102312/leetcode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashish102312/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1472-design-browser-history](https://github.com/ashish102312/leetcode/tree/master/1472-design-browser-history) |
 ## Two Pointers
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ashish102312/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ashish102312/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashish102312/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ashish102312/leetcode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashish102312/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Combinatorics
 |  |
