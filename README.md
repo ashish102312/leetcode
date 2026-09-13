@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ashish102312/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ashish102312/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ashish102312/leetcode/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/ashish102312/leetcode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/ashish102312/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ashish102312/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ashish102312/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ashish102312/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashish102312/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/ashish102312/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0835-image-overlap](https://github.com/ashish102312/leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ashish102312/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashish102312/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1314-matrix-block-sum](https://github.com/ashish102312/leetcode/tree/master/1314-matrix-block-sum) |
