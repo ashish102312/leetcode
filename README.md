@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/ashish102312/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/ashish102312/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ashish102312/leetcode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/ashish102312/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ashish102312/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ashish102312/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/ashish102312/leetcode/tree/master/1140-stone-game-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashish102312/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ashish102312/leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/ashish102312/leetcode/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/ashish102312/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashish102312/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ashish102312/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ashish102312/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/ashish102312/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ashish102312/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ashish102312/leetcode/tree/master/0344-reverse-string) |
+| [0678-valid-parenthesis-string](https://github.com/ashish102312/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ashish102312/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashish102312/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ashish102312/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ashish102312/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ashish102312/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashish102312/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ashish102312/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ashish102312/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ashish102312/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ashish102312/leetcode/tree/master/0901-online-stock-span) |
@@ -882,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ashish102312/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ashish102312/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ashish102312/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ashish102312/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashish102312/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashish102312/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashish102312/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
