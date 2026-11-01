@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ashish102312/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0354-russian-doll-envelopes](https://github.com/ashish102312/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0407-trapping-rain-water-ii](https://github.com/ashish102312/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ashish102312/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/ashish102312/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/ashish102312/leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/ashish102312/leetcode/tree/master/0496-next-greater-element-i) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ashish102312/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/ashish102312/leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/ashish102312/leetcode/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ashish102312/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ashish102312/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ashish102312/leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ashish102312/leetcode/tree/master/0523-continuous-subarray-sum) |
